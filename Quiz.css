@@ -1,0 +1,56 @@
+.body_background {
+    background-image: url("backgroundmenu.jpg");
+    background-position: center;
+    background-size: cover;
+    color: lawngreen;
+}
+
+.number1 {
+    border-radius: 50;
+    border-color: cyan;
+}
+
+.lb1 {
+    left: 1000px;
+}
+
+#output {
+    background: blue;
+    border-radius: 10px;
+    border-top: 10px solid #2f00ff;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#player1_name
+{
+    color: wheat;
+}
+#player2_name
+{
+    color: wheat;
+}
+#player1_score
+{
+    color: tomato;
+}
+
+#player2_score
+{
+    color: tomato;
+}
+#player_question
+{
+    color: lightsalmon;
+}
+
+#player_answer
+{
+    color: lightsalmon;
+}
+#title
+{
+    color: aquamarine;
+}
+
